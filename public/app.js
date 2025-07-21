@@ -1,4 +1,4 @@
-const socket = io();
+const socket = io('https://your-render-url.onrender.com');
 
 const board = document.getElementById('board');
 const statusEl = document.getElementById('status');
