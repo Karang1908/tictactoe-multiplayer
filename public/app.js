@@ -1,4 +1,4 @@
-const socket = io('https://your-render-url.onrender.com');
+const socket = io('https://tic-tac-toe-final-nl52.onrender.com');
 
 const board = document.getElementById('board');
 const statusEl = document.getElementById('status');
